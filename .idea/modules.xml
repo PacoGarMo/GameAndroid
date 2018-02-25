@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GameAndroid.iml" filepath="$PROJECT_DIR$/GameAndroid.iml" />
+      <module fileurl="file://E:\Francisco\Documentos\GitHub\GameAndroid\GameAndroid.iml" filepath="E:\Francisco\Documentos\GitHub\GameAndroid\GameAndroid.iml" />
       <module fileurl="file://C:\Users\dam.DESKTOP-B1K7D18\AndroidStudioProjects\Carmelo\Juego1718-master\Juego1718.iml" filepath="C:\Users\dam.DESKTOP-B1K7D18\AndroidStudioProjects\Carmelo\Juego1718-master\Juego1718.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Francisco\Documentos\GitHub\GameAndroid\app\app.iml" filepath="E:\Francisco\Documentos\GitHub\GameAndroid\app\app.iml" />
     </modules>
   </component>
 </project>

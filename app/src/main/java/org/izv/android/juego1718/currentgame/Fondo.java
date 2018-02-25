@@ -11,7 +11,7 @@ public class Fondo extends GameBackground{
 
 
     public Fondo() {
-        super(Assets.pk2);
-        this.setMovement(Movement.MOVING);
+        super(Assets.background);
+        this.setMovement(Movement.STILL);
     }
 }
